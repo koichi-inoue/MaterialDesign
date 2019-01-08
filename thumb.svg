@@ -1,1 +1,15 @@
-<svg width="350" height="225" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 225" preserveAspectRatio="none"><defs><style type="text/css">#holder_1682c4dd452 text { fill:#eceeef;font-weight:bold;font-family:Arial, Helvetica, Open Sans, sans-serif, monospace;font-size:18pt } </style></defs><g id="holder_1682c4dd452"><rect width="350" height="225" fill="silver"></rect><g><text x="113.82500076293945" y="120.75">PhotoImage</text></g></g></svg>
+<svg width="350" height="225" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 225" preserveAspectRatio="none">
+  <defs>
+    <style type="text/css">
+      #holder_1682c4dd452 text { 
+       fill:#eceeef;font-weight:bold;font-family:Arial, Helvetica, Open Sans, sans-serif, monospace;font-size:18pt
+      } 
+    </style>
+  </defs>
+  <g id="holder_1682c4dd452">
+    <rect width="350" height="225" fill="#999"></rect>
+    <g>
+      <text x="113.82500076293945" y="120.75">PhotoImage</text>
+    </g>
+  </g>
+</svg>

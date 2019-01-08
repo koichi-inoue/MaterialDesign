@@ -1,6 +1,6 @@
 .jumbotron {
   padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-bottom: 2rem;
   margin-bottom: 0;
   background-color: white;
 }
@@ -8,7 +8,7 @@
 @media (min-width: 768px) {
   .jumbotron {
     padding-top: 6rem;
-    padding-bottom: 6rem;
+    padding-bottom: 5rem;
   }
 }
 
